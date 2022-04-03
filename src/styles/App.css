@@ -124,3 +124,10 @@ body {
   font-size: 50px;
   font-family: cursive;
 }
+
+.ewdavid {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  padding-top: 60px;
+}

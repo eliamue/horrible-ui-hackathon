@@ -38,9 +38,9 @@ export default function Screenshot() {
             height="100"
             src={image}
             alt={"ScreenShot"}
-          />
-          :
-          <Sun />
+            />
+            :
+            <Sun />
 }
         </div>
         & now you can
