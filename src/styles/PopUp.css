@@ -28,6 +28,7 @@
     margin: 10px;
     font-size: 20px;
     background-color: rgb(255, 154, 123);
+    font-family: fantasy;
   }
 
   .popup-header {
@@ -45,4 +46,8 @@
 
   .select-btn:hover, .counter:hover {
     cursor: pointer;
+    font-size: 30px;
+    border-radius: 200px;
+    font-family: cursive;
+    text-shadow: 15px 15px 3px rgb(121, 138, 24);
   }
